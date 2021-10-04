@@ -1,0 +1,37 @@
+[
+  {
+    "key": "615b35836d55e1ca8c9e1e5a",
+    "picture": "https://techcrunch.com/wp-content/uploads/2021/03/apple-app-store-ios-2021.jpg?w=1390&crop=1",
+    "title": "Apple makes it easier to report bad apps and scams",
+    "writer": "Steve Dent",
+    "details": "Following reports that revealed that a significant percentage of top App Store apps were scams, Apple is allowing users to report such behavior, according to The Verge. As part of iOS 15, the latest App Store update lets you “report a scam or fraud” for both free, in-app purchase (IAP) and paid apps, provided you’ve installed the app in question. The feature, detailed by Kosta Eleftheriou and Richard Mazkewich on Twitter, goes even farther than the previous “Report a Problem” feature. You can now signal a scam or a fraud and not just “Report suspicious activity,” “Report a quality issue,” “Request a refund” or “Find my content” as before. Previously, you would have also needed to make an in-app purchase before you could highlight a scam or fraud, but that’s no longer the case. The “Report a problem” feature itself returned to individual app listings for the first time in years, as The Verge pointed out. Prior to that, it was located at the bottom of the Apps or Games tabs and would send you to a separate website."
+  },
+  {
+    "key": "615b3583e4fae2bf0fd0a141",
+    "picture": "https://www.incimages.com/uploaded_files/image/1920x1080/GettyImages-594832477_411045.jpg",
+    "title": "Rich and worried about the world? Put your money where your concern is",
+    "writer": "Alex Wilhelm",
+    "details": "Taking a small detour today from traditional Exchange topics — we’ll get to some IPO news later on — to talk briefly about climate, climate tech and pessimism.Last week on the podcast, the Equity crew spent a bit of time digging into the planet-wide impacts that our warming world will endure in the coming years — and the role that startups can play in combating climate change. There are some encouraging companies in the mix, including Droneseed, which we all rather liked. Then again, who doesn’t like the idea of shooting seed pucks from drones to re-seed forests? If you have ever taken part in a tree-planting day, using a drone instead of your hands sounds like a super-brilliant idea. I have done the work by hand, and can’t really recommend it. TechCrunch’s own Kirsten Korosec wrote a long and rather good dig into the climate tech space, which I recommend reading if you want to get a bit deeper on the subject."
+  },
+  {
+    "key": "615b3583579903b599062488",
+    "picture": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2021/10/04/facebook.jpeg?itok=_lQSOm4K&timestamp=1633363454",
+    "title": "Facebook, Messenger, Instagram and WhatsApp are down for many users",
+    "writer": "tbsnews",
+    "details": "Many users around the World are currently reporting issues in loading Facebook, Messenger, Instagram and WhatsApp. Users are unable to update their news feed, Messenger and WhatsApp users are unable to send or receive any messages. Facebook services suddenly went offline when its global head of safety Antigone Davis was live on CNBC defending the company's policies and its handling of research data suggesting Instagram is harmful to teens. According to the tracking website DownDetector, more than two lakh people have reported issues with Facebook services till 10pm Monday.In a statement, Facebook said, We're aware that some people are having trouble accessing our apps and products. We're working to get things back to normal as quickly as possible, and we apologize for any inconvenience."
+  },
+  {
+    "key": "615b3583f2c2909772beed6b",
+    "picture": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2020/12/31/zoom.jpg?itok=2tB0v_Nx&timestamp=1609416896",
+    "title": "Zoom, Five9 to terminate nearly $15 bln all-stock deal after shareholder vote",
+    "writer": "tbsnews",
+    "details": "Five9 Inc shareholders voted down the call center software firm's $14.7 billion sale to Zoom Video Communications Inc on Thursday, a major blow to Zoom's plan to expand its offerings following its pandemic boom. The termination of what would have been Zoom's biggest-ever acquisition comes after proxy advisory firm Institutional Shareholder Services (ISS)and Glass Lewis earlier this month recommended that Five9 shareholders vote against the deal, citing growth concerns and dual-class shares. read more. Under the deal terms announced in July, Five9 shareholders would have received 0.5533 Zoom share for every Five9 share. The terms implied a 12.8% premium over Five9's market price and valued the company at $14.7 billion. Since then, Zoom's stock has dropped over 25% as the virtual conferencing giant reported slower growth on its second-quarter earnings call. The all-stock deal exposes FIVN shareholders to a more volatile stock whose growth prospects have become less compelling as society inches towards a post-pandemic environment, ISS said in its report earlier this month."
+  },
+  {
+    "key": "615b3583341ea97f37b73399",
+    "picture": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2019/10/04/instagram.jpg?itok=p2hVaUsf&timestamp=1576768125",
+    "title": "Celebrity Instagram content linked to negative feelings, Facebook researchers say",
+    "writer": "tbsnews",
+    "details": "Major social media stars including Kim Kardashian, Justin Bieber and Charli D'Amelio are among celebrities whose Instagram followers experience more negative feelings about their self-image, according to internal Facebook research revealed by the Wall Street Journal this week, raising questions about the impact of celebrity culture online. The Journal released the leaked research slide decks on Wednesday, which served as the basis of articles it published earlier this month saying that Facebook knew its apps harmed the mental health of some teenage girls and young users. The research, titled Social comparison on Instagram, surveyed 100,000 people in March and April 2020 in nine countries, including the United States, Australia and Brazil."
+  }
+]

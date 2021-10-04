@@ -1,0 +1,11 @@
+.firstSectionHeading{
+    padding-left: 10%;
+    padding-top: 15%;
+    padding-bottom: 3%;
+    font-weight: 700;
+    font-size: 350%;
+}
+
+.firstSection div button{
+    margin-left: 10%;
+}

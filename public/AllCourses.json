@@ -1,0 +1,92 @@
+[
+    {
+      "key": "615b079f09d1b06c8677c83a",
+      "picture": "https://raw.githubusercontent.com/mahadihassanriyadh/images/main/business-images/build-your-startup.png",
+      "price": 15,
+      "name": "Build Your Startup",
+      "category": "Startup, Business",
+      "instructor": "MD. Hafizur Rahman",
+      "details": "If you are new to entrepreneurship and are ready to bootstrap your first startup, or have already created a business and want to learn how to get to the next level without spending a lot of time and money, then this is the course for you!"
+    },
+    {
+      "key": "615b079f89b379819763ffd9",
+      "picture": "https://raw.githubusercontent.com/mahadihassanriyadh/images/main/business-images/business-analytics-101.png",
+      "price": 17,
+      "name": "Business Analytics",
+      "category": "Business, Statistics",
+      "instructor": "Harun Ar Rashid",
+      "details": "This Specialization provides an introduction to big data analytics for all business professionals, including those with no prior analytics experience. You’ll learn how data analysts describe, predict, and inform business decisions in the specific areas of marketing, human resources, finance, and operations, and you’ll develop basic data literacy and an analytic mindset that will help you make strategic decisions based on data."
+    },
+    {
+      "key": "615b079f0c4f9e66b7c60ec9",
+      "picture": "https://raw.githubusercontent.com/mahadihassanriyadh/images/main/business-images/business-fundamentals.png",
+      "price": 21,
+      "name": "Business Fundamentals",
+      "category": "Business",
+      "instructor": "Jasper Shan",
+      "details": "Beyond an increasing demand for those with technological know-how, the changing job market is driving a need for workers who are adept at decision-making, complex information processing, critical thinking, communication, and leadership."
+    },
+    {
+      "key": "615b079f24116b71ade9be63",
+      "picture": "https://raw.githubusercontent.com/mahadihassanriyadh/images/main/business-images/business-manement-101.png",
+      "price": 19,
+      "name": "Business Management 101",
+      "category": "Business, Management",
+      "instructor": "Raisul Kabir",
+      "details": "University courses in the fields of business and management are among the most popular worldwide, at both undergraduate and graduate levels of study. Business and management degrees range from broad and comprehensive to highly specialized programs, spanning subjects including accounting, finance, business administration, economics, marketing and management – each of which provides further opportunities for specialization."
+    },
+    {
+      "key": "615b079f040c7927d039e666",
+      "picture": "https://raw.githubusercontent.com/mahadihassanriyadh/images/main/business-images/email-marketing-101.png",
+      "price": 9,
+      "name": "Email Marketing 101",
+      "category": "Marketing",
+      "instructor": "David Rouf",
+      "details": "Email marketing is the act of sending a commercial message, typically to a group of people, using email. In its broadest sense, every email sent to a potential or current customer could be considered email marketing. It involves using email to send advertisements, request business, or solicit sales or donations."
+    },
+    {
+      "key": "615b079f452ddb717b808b30",
+      "picture": "https://raw.githubusercontent.com/mahadihassanriyadh/images/main/business-images/importance-of-blogging-in-business.png",
+      "price": 11,
+      "name": "Importance of Blogging in Business",
+      "category": "Bloging",
+      "instructor": "Brandon MC",
+      "details": "It does not matter how small your business is, blogging is a good way for your business to build trust and establish clout in your industry. By providing content that will be viewed as valuable, expert information, your potential customers get to see the knowledge an experience that you have gained in your field."
+    },
+    {
+      "key": "615b079fa18b3cdae692855a",
+      "picture": "https://raw.githubusercontent.com/mahadihassanriyadh/images/main/business-images/instagram-marketing-for-beginners.png",
+      "price": 21,
+      "name": "Instagram Marketing for Beginners",
+      "category": "Instagram Marketing",
+      "instructor": "Richard Hanricks",
+      "details": "With over 1 billion monthly users, Instagram ranks second after its counter-platform Facebook, when we look at active users. As more users join the network and peruse their Feed, Stories, the Explore tab, and IGTV, its popularity and frequent new feature launches, there is great opportunity for brands of all varieties to get into this space and find ways to find success. After all, with that many people on the platform, your audience is most certainly present."
+    },
+    {
+      "key": "615b079f8c7b0e0073e5c3e9",
+      "picture": "https://raw.githubusercontent.com/mahadihassanriyadh/images/main/business-images/seo-101.png",
+      "price": 27,
+      "name": "SEO 101",
+      "category": "SEO",
+      "instructor": "Gilfoy Crick",
+      "details": "SEO stands for “search engine optimization.” In simple terms, it means the process of improving your site to increase its visibility when people search for products or services related to your business in Google, Bing, and other search engines."
+    },
+    {
+      "key": "615b079fcf7217319825308b",
+      "picture": "https://raw.githubusercontent.com/mahadihassanriyadh/images/main/business-images/seo-201.png",
+      "price": 35,
+      "name": "SEO 201",
+      "category": "SEO",
+      "instructor": "Gilfoy Crick",
+      "details": "Think about the words your clients are likely to use when looking for your products or services on the web. If you’re selling appliances, for example, are your customers more likely to use a formal word like refrigerator or a slang word like fridge?"
+    },
+    {
+      "key": "615b079f921cce6d18820a00",
+      "picture": "https://raw.githubusercontent.com/mahadihassanriyadh/images/main/business-images/supply-chain-management-101.png",
+      "price": 31,
+      "name": "Supply Chain Management 101",
+      "category": "Supply Chain Management",
+      "instructor": "Rick Riaordan",
+      "details": "A supply chain is a network between a company and its suppliers to produce and distribute a specific product or service. The entities in the supply chain include producers, vendors, warehouses, transportation companies, distribution centers, and retailers."
+    }
+  ]
