@@ -47,6 +47,9 @@ const Home = () => {
                         )
                     }
                 </Row>
+                <div className="d-flex justify-content-center">
+                    <Button onClick={handleCoursesClick} className="btn btn-info fw-bold text-white fs-4">Load More Course</Button>
+                </div>
             </div>
         </div>
     );
