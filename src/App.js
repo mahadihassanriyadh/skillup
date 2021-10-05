@@ -9,6 +9,7 @@ import Courses from './Components/Courses/Courses';
 import Blogs from './Components/Blogs/Blogs';
 import NotFound from './Components/NotFound/NotFound';
 import About from './Components/About/About';
+import CourseDetails from './Components/CourseDetails/CourseDetails';
 
 
 function App() {
@@ -24,8 +25,11 @@ function App() {
           <Route exact path="/">
             <Home></Home>
           </Route>
-          <Route path="/courses">
+          <Route exact path="/courses">
             <Courses></Courses>
+          </Route>
+          <Route exact path="/courses/:courseKey">
+            <CourseDetails></CourseDetails>
           </Route>
           <Route path="/blogs">
             <Blogs></Blogs>

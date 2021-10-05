@@ -6,8 +6,8 @@ const HomeCourseDisplay = (props) => {
     const { name, picture, details } = props.course;
     return (
         
-        <Col>
-            <Card className="my-3">
+        <Col className="my-3">
+            <Card className="h-100">
             <Card.Img variant="top" src={picture} />
             <Card.Body title={details}>
                 <Card.Title>{name}</Card.Title>

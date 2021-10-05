@@ -8,9 +8,9 @@ import { Row } from 'react-bootstrap';
 const Home = () => {
     const [courses, setCourses] = useState([]);
     useEffect(() => {
-        fetch('./ShowCourses.json')
+        fetch('./AllCourses.json')
             .then(res => res.json())
-            .then(data => setCourses(data))
+            .then(data => setCourses(data.slice('', 4)))
     }, [])
     const history = useHistory();
     const firstSection = {
@@ -37,7 +37,7 @@ const Home = () => {
 
             <div className="secondSection my-5">
                 <h2 className="text-center">Our Most Popular Courses</h2>
-                <Row xs={3} md={3} lg={3} className="m-4">
+                <Row xs={1} md={2} lg={3} className="m-4">
                     {
                         courses.map(course =>
                             <HomeCourseDisplay
